@@ -1,0 +1,6 @@
+HEAP SUMMARY:
+==2876==     in use at exit: 0 bytes in 0 blocks
+==2876==   total heap usage: 17,463 allocs, 17,463 frees, 45,810,123 bytes allocated
+==2876== 
+==2876== All heap blocks were freed -- no leaks are possible
+
